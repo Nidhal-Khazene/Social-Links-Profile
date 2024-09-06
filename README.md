@@ -15,7 +15,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- 
+
 ### Live Link of The Website
 
 https://nidhal-khazene.github.io/Social-Links-Profile-Frontend-Mentor-Challenge/
