@@ -21,4 +21,4 @@ Users should be able to:
 
 ### Live Link of The Website
 
-https://nidhal-khazene.github.io/Social-Links-Profile-Frontend-Mentor-Challenge/
+ https://nidhal-khazene.github.io/Social-Links-Profile/
